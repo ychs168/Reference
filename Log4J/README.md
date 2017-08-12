@@ -123,3 +123,4 @@ PatternLayout（可以灵活的指定布局格式--常用）
 %p 输出优先级，即DEBUG，INFO，WARN，ERROR，FATAL。如果是调用debug()输出的，则为DEBUG，依此类推
 %r 输出自应用启动到输出该日志信息所耗费的毫秒数
 %t 输出产生该日志事件的线程名 
+### [Log4J Wiki](https://zh.wikipedia.org/wiki/Log4j)
