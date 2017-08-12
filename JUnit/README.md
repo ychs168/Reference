@@ -1,5 +1,5 @@
 # JUnit使用示例
-> 本例要使用到Log4J，现将Log4J配置好
+> 单元测试必须；本例要使用到Log4J，现将Log4J配置好
 
 1. 将hamcrest-core-1.3.jar  junit-4.12.jar导入工程中，类似Log4J导入
 2. 在测试类中使用，如下代码：
