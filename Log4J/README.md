@@ -122,4 +122,4 @@ PatternLayout（可以灵活的指定布局格式--常用）
 %n 输出一个回车换行符，Windows平台为“rn”，Unix平台为“n”
 %p 输出优先级，即DEBUG，INFO，WARN，ERROR，FATAL。如果是调用debug()输出的，则为DEBUG，依此类推
 %r 输出自应用启动到输出该日志信息所耗费的毫秒数
-%t 输出产生该日志事件的线程名
+%t 输出产生该日志事件的线程名 
